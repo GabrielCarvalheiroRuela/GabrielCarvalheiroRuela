@@ -1,9 +1,9 @@
 ## Olá, meu nome é Gabriel Carvalheiro.
 ### Sejam bem-vindos, Devs!!
 
-Moro na cidade de Ribeirão Preto e trabalho atualmente na empresa Isotec Sistemas como analista e suporte de sistemas, além disso faço faculdade de engenharia de software na UNAERP (Universidade de Ribeirão Preto).
+Moro na cidade de Ribeirão Preto e trabalho atualmente na Universidade de Ribeirão Preto (UNAERP) como Service Desk, além disso faço faculdade de engenharia de software na UNAERP (Universidade de Ribeirão Preto).
 
-- 🔭 Atualmente estou trabalhando em analista de sistema.
+- 🔭 Atualmente estou trabalhando na área de Service Desk.
 - 🌱 Atualmente estou cursando Eng. de software na UNAERP.
 - 📫 Como entrar em contato comigo: gabriel.rp.sp@gmail.com
 - ⚡ Curiosidade: Conhecimento em manutenção de hardware.
