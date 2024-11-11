@@ -1,29 +1,47 @@
-## Olá, meu nome é Gabriel Carvalheiro.
-### Sejam bem-vindos, Devs!!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=ff213f&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Carvalheiro+Ruela+)](https://git.io/typing-svg)
 
-Moro na cidade de Ribeirão Preto e trabalho atualmente na Socin em desenvolvimento Java, além disso faço faculdade de engenharia de software na UNAERP (Universidade de Ribeirão Preto).
+### Sobre mim
+👩🏻‍💻 Estudante de Engenharia de Software <br>
+🔍 Atualmente estou trabalhando como Dev. Java <br>
+💻 Em constante aprendizado, sempre procuro aprender mais! <br>
 
-- 🔭 Atualmente faço estágio de desenvolvimento JAVA na Socin.
-- 🌱 Atualmente estou cursando Eng. de software na UNAERP.
-- 📫 Como entrar em contato comigo: gabriel.rp.sp@gmail.com
-- ⚡ Curiosidade: Conhecimento em manutenção de hardware.
+<!-- <h3 align="left">Entre em contato!</h3>
 
-### Conhecimentos
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-##
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/GabrielCarvalheiroRuela/count.svg"/>
-</p>
-<div>  
-<a href="https://www.instagram.com/ll_gabrielcr_ll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:gabriel.rp.sp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-carvalheiro-437a41239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a><href="https://discord.gg/KTQateW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFF&color:FAB8D6FF)](mailto:anaclaracarnavalli@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FAB8D6FF)]((https://www.linkedin.com/in/ana-clara-pereira-51264a21a/)/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF&color:FAB8D6FF)](https://www.instagram.com/anaclacp/) -->
+
+
+<h3 align="left">Minhas tecnologias</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="python logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="python logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+  <img width="8" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="c logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="oracle sql logo"  />
+  <img width="8" />
 </div>
-<br>
-<div display: flex;>
-  <a href="https://github.com/GabrielCarvalheiroRuela">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielCarvalheiroRuela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarvalheiroRuela&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielCarvalheiroRuela/GabrielCarvalheiroRuela/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielCarvalheiroRuela/GabrielCarvalheiroRuela/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielCarvalheiroRuela/GabrielCarvalheiroRuela/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
