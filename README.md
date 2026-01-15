@@ -56,13 +56,15 @@ const gabriel = {
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" title="GitHub" />
+  <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" height="45" alt="GitHub" title="GitHub" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="45" alt="Postman" title="Postman" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="45" alt="Vite" title="Vite" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="45" alt="Cucumber" title="Cucumber" />
+  <img width="12" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" height="45" alt="N8N" title="N8N" />
 </div>
 
 ## 🐍 Contribuições
