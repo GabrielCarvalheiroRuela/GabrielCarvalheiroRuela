@@ -81,7 +81,7 @@ const gabriel = {
   <a href="mailto:gabriel.ruela@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://www.linkedin.com/in/gabriel-carvalheiro-ruela](https://www.linkedin.com/in/gabriel-carvalheiro-437a41239/)" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-carvalheiro-437a41239/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/GabrielCarvalheiroRuela" target="_blank">
@@ -89,14 +89,3 @@ const gabriel = {
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabrielCarvalheiroRuela&color=7cfaff&style=for-the-badge&label=Visualizações+do+Perfil" alt="Profile views" />
-</div>
-
-<div align="center">
-  
-  **"Código limpo não é escrito seguindo regras. Você sabe que escreveu código limpo quando cada rotina que você lê é praticamente o que você esperava."** - Robert C. Martin
-  
-</div>
